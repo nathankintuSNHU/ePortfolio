@@ -33,3 +33,9 @@ The system I collaborated on exhibited a sophisticated workflow. Upon a user ent
 
 Subsequently, the system progresses by creating a second dataset of 50 points, guided by the previously discovered correlations between datasets. This correlation data acts as an essential input for a predictive model embedded within the system, ultimately leading to the computation and generation of the desired pulse width for laser-cutting tasks. This intricate fusion of data structure principles and predictive modeling results in a sturdy system capable of enhancing the efficiency and precision of metal-cutting operations.
 </p>
+<h2 align="center">
+Databases
+</h2>
+<p>
+ A database is an organized data collection for easy access, management, and updates, acting as a central store ensuring data integrity, security, and consistency through tables, rows, and columns. Users interact via DBMS to query, add, modify, or delete data. They vary from relational (SQL) to NoSQL and NewSQL types. Crucial in organizations, databases handle vast data and support various applications, from simple websites to complex systems. Through prior courses, I grasped database importance, creating, reading, editing, and deleting data. In this project, I am emphasizing user control with an authentication page, granting access if user info matches database records. Utilizing SQLite, Python was employed to manage user storage and develop queries effectively. 
+</p>
