@@ -9,7 +9,6 @@ Nathan Kintu's ePortfolio
 <h2 align="center">
 Software Design and Engineering
 </h2>
-</div>
 <p> The project illustrated the core principles of software design and engineering through a rigorous process that focused on conceptualization, planning, and development following established engineering methods. The primary goal was to create a top-tier software system known for its reliability and ease of maintenance. 
 
 Initial efforts concentrated on designing various elements of the software architecture, encompassing components, modules, interfaces, and data structures. This meticulous design phase guaranteed that the software would not only meet specific requirements but also be scalable, efficient, and adaptable for future modifications.
