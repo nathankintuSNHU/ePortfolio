@@ -22,3 +22,14 @@ Additionally, the project emphasized utilizing algorithms and data structures to
 
 Throughout the development process, the project incorporated best practices, coding standards, and stringent testing strategies to ensure the software's functionality, performance, and security. These measures played a vital role in upholding the software's robustness and dependability over time, signifying a holistic approach to software design and engineering within the project's scope.
 </p>
+<h2 align="center">
+Algorithms and Data Structures
+</h2>
+<p>In a prior academic course, I immersed myself in the complex world of data structures, the fundamental components of computer science that enable efficient data storage, organization, and manipulation. These serve as the bedrock for handling and processing data, facilitating smooth operations and accessibility. Arrays, linked lists, stacks, queues, trees, and graphs are among the common data structures, each with distinct features and applications designed to tackle specific computational hurdles.
+
+Understanding data structures profoundly is crucial for designing efficient algorithms and developing high-performance code. In a practical project I engaged in, my expertise in managing data structures played a pivotal role in predicting crucial parameters for laser-cutting metal sheets with thicknesses varying from 0.006 inches to 0.06 inches.
+
+The system I collaborated on exhibited a sophisticated workflow. Upon a user entering a specific value in the Wall thickness field, the system initiates by generating a random dataset containing 50 points evenly spread across the specified thickness range. The dataset's mean value is then calculated and juxtaposed with the input wall thickness, laying the groundwork for insightful analysis.
+
+Subsequently, the system progresses by creating a second dataset of 50 points, guided by the previously discovered correlations between datasets. This correlation data acts as an essential input for a predictive model embedded within the system, ultimately leading to the computation and generation of the desired pulse width for laser-cutting tasks. This intricate fusion of data structure principles and predictive modeling results in a sturdy system capable of enhancing the efficiency and precision of metal-cutting operations.
+</p>
