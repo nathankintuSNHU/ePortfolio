@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="css/bootstrap.min.css">
 <h1 align="center">
 Nathan Kintu's ePortfolio
 </h1>
