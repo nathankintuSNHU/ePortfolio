@@ -1,0 +1,18 @@
+ Wall Thickness			0.02
+ Pulse Width (ms)		0.026
+ Pulse Power (%)		90.0
+ Laser Power (Watts)		300
+ Kerf Size)			0.05
+ Pulse Power (Watts)		270.0
+ Pulse Frequency (Hz)		5177.8
+ Speed(mm/s)			6
+ Pulse Energy (mJ)		7.02
+ Rep Rate Time (s)		0.00019
+ Rep Rate (ms)			0.19
+ Output Power(mJ/s)		36.348
+ Duty Cycle (%)			13.68
+ Spot Size Overlap (%)		97.68
+ Material Bite (%)		2.32
+ _____________________________
+ Generated Data Mean		0.02554
+ Standard Deviation		0.013
