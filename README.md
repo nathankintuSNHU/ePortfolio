@@ -85,7 +85,7 @@ Databases
 <h2 align="center">
 Self Assessment
 </h2>
-<p align="center"> 
+<p align="justify"> 
  Demonstrating a robust mastery of various software engineering principles and practices, I exhibit commendable skills in designing, developing, and maintaining intricate software systems. My expertise encompasses a solid grasp of data structures, algorithms, and object-oriented programming, translating into the creation of clean and efficient code bases.
 Moreover, meticulous attention to detail characterizes my approach to code reviews, ensuring the enforcement of high-quality standards, best practices adherence, and adept problem-solving capabilities. Within team settings, my collaborative nature cultivates knowledge exchange and positively impacts project outcomes. A penchant for early issue identification and resolution streamlines development processes, elevating the overall quality of the product.
 <br><br>
