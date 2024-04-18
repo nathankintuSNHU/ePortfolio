@@ -1,15 +1,14 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>GitHub Page Styling</title>
 <!-- Add your custom CSS styling here -->
 <style>
 body {
     font-family: Arial, sans-serif;
     background-color: #f8f8f8;
-    color: #333;
+    color: #333444;
     margin: 0;
     padding: 20px;
 }
