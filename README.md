@@ -37,7 +37,7 @@ Progressing from this initial phase, the system generates a second set of 50 poi
 By employing various equations and models, the system computes the speed, frequency, and additional values in the output.
 <br><br>
 The fusion of sophisticated data structure principles with predictive modeling culminates in the construction of a resilient system that significantly heightens the precision and efficiency of metal-cutting processes.</p>
-<a href="https://github.com/nathankintuSNHU/Final-Project-Code-review/commit/a5980a56ea9c83c85baa1faaf4591d471d3234cb" target="_blank"> Link to Algorithms and Data Structures code </a>
+<a href="https://github.com/nathankintuSNHU/Final-Project-Code-review/blob/main/Data%20Structure%20and%20Algorithm" target="_blank"> Link to Algorithms and Data Structures code </a>
 
 <h2 align="center">
 Databases
