@@ -25,13 +25,14 @@ Throughout the development process, the project incorporated best practices, cod
 <h2 align="center">
 Algorithms and Data Structures
 </h2>
-<p>In a prior academic course, I immersed myself in the complex world of data structures, the fundamental components of computer science that enable efficient data storage, organization, and manipulation. These serve as the bedrock for handling and processing data, facilitating smooth operations and accessibility. Arrays, linked lists, stacks, queues, trees, and graphs are among the common data structures, each with distinct features and applications designed to tackle specific computational hurdles.
+<p>Having a deep understanding of data structures is essential for creating optimized algorithms and efficient code. In this project, my expertise in data structure management proves crucial for accurately foreseeing essential parameters in cutting metal sheets spanning from 0.006 to 0.06 inches in thickness.
 <br><br>
-Understanding data structures profoundly is crucial for designing efficient algorithms and developing high-performance code. In a practical project I engaged in, my expertise in managing data structures played a pivotal role in predicting crucial parameters for laser-cutting metal sheets with thicknesses varying from 0.006 inches to 0.06 inches.
+When a user enters a wall thickness value and activates the “Calculate” button, the system springs into action. It creates a set of 50 random points stored in "model/modelData.txt", uniformly distributed within the designated thickness range. The meaning of these points is then calculated and juxtaposed with the input thickness to facilitate in-depth analysis.
 <br><br>
-The system I collaborated on exhibited a sophisticated workflow. Upon a user entering a specific value in the Wall thickness field, the system initiates by generating a random dataset containing 50 points evenly spread across the specified thickness range. The dataset's mean value is then calculated and juxtaposed with the input wall thickness, laying the groundwork for insightful analysis.
+Progressing from this initial phase, the system generates a second set of 50 points stored in "model/modelData2.txt", strategically devised based on the correlations between the initial data collections. These correlations are pivotal inputs for a predictive model housed in "model/material-models/pulsewidth-model1.txt," enabling the system to determine the optimal pulse width for laser cutting operations effectively.
 <br><br>
-Subsequently, the system progresses by creating a second dataset of 50 points, guided by the previously discovered correlations between datasets. This correlation data acts as an essential input for a predictive model embedded within the system, ultimately leading to the computation and generation of the desired pulse width for laser-cutting tasks. This intricate fusion of data structure principles and predictive modeling results in a sturdy system capable of enhancing the efficiency and precision of metal-cutting operations.
+By employing various equations and models, the system computes the speed, frequency, and additional values in the output.
+The fusion of sophisticated data structure principles with predictive modeling culminates in the construction of a resilient system that significantly heightens the precision and efficiency of metal-cutting processes.
 </p>
 <h2 align="center">
 Databases
