@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-    max-width: 800px;
+    max-width: 700px;
     margin: 0 auto;
 }
 
@@ -24,7 +24,7 @@ h1 {
 
 p {
     font-size: 16px;
-    line-height: 1.6;
+    line-height: 2;
 }
 
 </style>
@@ -38,17 +38,17 @@ Nathan Kintu's ePortfolio
 <div style="text-align: center">
   <img src="main_detailed.JPG" alt="Application Page Description" />
 </div>
-<p> Laser cutting is a precise method widely used across industries for cutting and engraving materials with high accuracy and speed. The technology employs a focused laser beam to melt or burn through materials, offering versatility in cutting various materials and creating intricate designs. The software discussed utilizes user-provided details to predict essential cutting parameters, processed through tailored prediction models for different wall thicknesses, streamlining the cutting process for efficiency and accuracy.</p>
+<p align="justify"> Laser cutting is a precise method widely used across industries for cutting and engraving materials with high accuracy and speed. The technology employs a focused laser beam to melt or burn through materials, offering versatility in cutting various materials and creating intricate designs. The software discussed utilizes user-provided details to predict essential cutting parameters, processed through tailored prediction models for different wall thicknesses, streamlining the cutting process for efficiency and accuracy.</p>
 <h2 align="center">
 Code Review
 </h2>
 <a href="https://youtu.be/M27asdylJRE" target="_blank"> Link to code review video </a>
-<p> Code review in my project was crucial for peers to thoroughly examine code alterations, ensuring quality, consistency, and compliance with coding standards. I received feedback on utilizing simple and understandable variables and emphasizing comments to clarify code functionality. This collaborative review process aided in early bug detection, knowledge sharing among team members, and enhancing the overall codebase quality by advocating best practices..</p>
+<p align="justify"> Code review in my project was crucial for peers to thoroughly examine code alterations, ensuring quality, consistency, and compliance with coding standards. I received feedback on utilizing simple and understandable variables and emphasizing comments to clarify code functionality. This collaborative review process aided in early bug detection, knowledge sharing among team members, and enhancing the overall codebase quality by advocating best practices..</p>
  
 <h2 align="center">
 Software Design and Engineering
 </h2>
-<p> The project illustrates the core principles of software design and engineering through a rigorous process that focuses on conceptualization, planning, and development following established engineering methods. The primary goal is to create a top-tier software system known for its reliability and ease of maintenance.
+<p align="justify"> The project illustrates the core principles of software design and engineering through a rigorous process that focuses on conceptualization, planning, and development following established engineering methods. The primary goal is to create a top-tier software system known for its reliability and ease of maintenance.
 <br><br>
 Initial efforts concentrate on designing various elements of the software architecture, encompassing components, modules, interfaces, and data structures. This meticulous design phase guarantees that the software not only meets specific requirements but also is scalable, efficient, and adaptable for future modifications.
 <br><br>
@@ -61,7 +61,7 @@ Throughout the development process, the project incorporates best practices, cod
 <h2 align="center">
 Algorithms and Data Structures
 </h2>
-<p>Having a deep understanding of data structures is essential for creating optimized algorithms and efficient code. In this project, my expertise in data structure management proves crucial for accurately foreseeing essential parameters in cutting metal sheets spanning from 0.006 to 0.06 inches in thickness.
+<p align="justify">Having a deep understanding of data structures is essential for creating optimized algorithms and efficient code. In this project, my expertise in data structure management proves crucial for accurately foreseeing essential parameters in cutting metal sheets spanning from 0.006 to 0.06 inches in thickness.
 <br><br>
 When a user enters a wall thickness value and activates the “Calculate” button, the system springs into action. It creates a set of 50 random points stored in "model/modelData.txt", uniformly distributed within the designated thickness range. The meaning of these points is then calculated and juxtaposed with the input thickness to facilitate in-depth analysis.
 <br><br>
@@ -78,7 +78,7 @@ Databases
 <p align="center">
   <img src="login_page.JPG">
 </p>
-<p>
+<p align="justify">
  A database is an organized data collection for easy access, management, and updates, acting as a central store ensuring data integrity, security, and consistency through tables, rows, and columns. The users interact via DBMS to query, add, modify, or delete data. Through prior courses, I grasp database importance, creating, reading, editing, and deleting data. In this project, I emphasize user control with an authentication page, granting access if user info matches database records. Utilizing SQLite, Python is employed to manage user storage and develop queries effectively. </p>
 <a href="https://github.com/nathankintuSNHU/Final-Project-Code-review/blob/main/Authenticator" target="_blank"> Link to Database management code </a>
 
