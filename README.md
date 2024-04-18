@@ -9,7 +9,8 @@ Nathan Kintu's ePortfolio
 <h2 align="center">
 Code Review
 </h2>
-<a href="https://youtu.be/M27asdylJRE" target="_blank"> Nathan Kintu </a>
+<a href="https://youtu.be/M27asdylJRE" target="_blank"> Link to code review video </a>
+<p> Code review in my project was crucial for peers to thoroughly examine code alterations, ensuring quality, consistency, and compliance with coding standards. I received feedback on utilizing simple and understandable variables and emphasizing comments to clarify code functionality. This collaborative review process aided in early bug detection, knowledge sharing among team members, and enhancing the overall codebase quality by advocating best practices..</p>
  
 <h2 align="center">
 Software Design and Engineering
