@@ -1,3 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GitHub Page Styling</title>
+<!-- Add your custom CSS styling here -->
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #007bff;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+</style>
+</head>
+<body>
+<div class="container">
+    <h1>GitHub Page Styling</h1>
+    <p>This is a demonstration of adding style to a GitHub page.</p>
+</div>
+</body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 <h1 align="center">
 Nathan Kintu's ePortfolio
