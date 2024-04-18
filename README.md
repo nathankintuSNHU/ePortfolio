@@ -36,9 +36,9 @@ Progressing from this initial phase, the system generates a second set of 50 poi
 <br><br>
 By employing various equations and models, the system computes the speed, frequency, and additional values in the output.
 <br><br>
-The fusion of sophisticated data structure principles with predictive modeling culminates in the construction of a resilient system that significantly heightens the precision and efficiency of metal-cutting processes.
+The fusion of sophisticated data structure principles with predictive modeling culminates in the construction of a resilient system that significantly heightens the precision and efficiency of metal-cutting processes.</p>
 <a href="https://github.com/nathankintuSNHU/Final-Project-Code-review/blob/main/Authenticator" target="_blank"> Link to Database management code </a>
-</p>
+
 <h2 align="center">
 Databases
 </h2>
@@ -46,6 +46,6 @@ Databases
   <img src="login_page.JPG">
 </p>
 <p>
- A database is an organized data collection for easy access, management, and updates, acting as a central store ensuring data integrity, security, and consistency through tables, rows, and columns. The users interact via DBMS to query, add, modify, or delete data. Through prior courses, I grasp database importance, creating, reading, editing, and deleting data. In this project, I emphasize user control with an authentication page, granting access if user info matches database records. Utilizing SQLite, Python is employed to manage user storage and develop queries effectively. 
+ A database is an organized data collection for easy access, management, and updates, acting as a central store ensuring data integrity, security, and consistency through tables, rows, and columns. The users interact via DBMS to query, add, modify, or delete data. Through prior courses, I grasp database importance, creating, reading, editing, and deleting data. In this project, I emphasize user control with an authentication page, granting access if user info matches database records. Utilizing SQLite, Python is employed to manage user storage and develop queries effectively. </p>
 <a href="https://github.com/nathankintuSNHU/Final-Project-Code-review/blob/main/Authenticator" target="_blank"> Link to Database management code </a>
-</p>
+
