@@ -85,12 +85,12 @@ Databases
 <h2 align="center">
 Self Assessment
 </h2>
-<p>
+<p align="center"> 
  Demonstrating a robust mastery of various software engineering principles and practices, I exhibit commendable skills in designing, developing, and maintaining intricate software systems. My expertise encompasses a solid grasp of data structures, algorithms, and object-oriented programming, translating into the creation of clean and efficient code bases.
 Moreover, meticulous attention to detail characterizes my approach to code reviews, ensuring the enforcement of high-quality standards, best practices adherence, and adept problem-solving capabilities. Within team settings, my collaborative nature cultivates knowledge exchange and positively impacts project outcomes. A penchant for early issue identification and resolution streamlines development processes, elevating the overall quality of the product.
-
+<br><br>
 By consistently updating my skill set and remaining informed about industry advancements, I embody a growth-oriented mindset that propels me towards tackling fresh challenges and embracing opportunities for ongoing learning and growth. Proficient communication skills further enhance my value, facilitating seamless engagement in technical conversations and collaborative team efforts.
-
+<br><br>
 Reliable for delivering robust software solutions, adapting to evolving project demands, and making meaningful contributions to software engineering achievements, my commitment to continuous enhancement and strong foundational knowledge solidify me as a proficient and indispensable software engineer.
  </p>
  </body>
