@@ -49,3 +49,14 @@ Databases
  A database is an organized data collection for easy access, management, and updates, acting as a central store ensuring data integrity, security, and consistency through tables, rows, and columns. The users interact via DBMS to query, add, modify, or delete data. Through prior courses, I grasp database importance, creating, reading, editing, and deleting data. In this project, I emphasize user control with an authentication page, granting access if user info matches database records. Utilizing SQLite, Python is employed to manage user storage and develop queries effectively. </p>
 <a href="https://github.com/nathankintuSNHU/Final-Project-Code-review/blob/main/Authenticator" target="_blank"> Link to Database management code </a>
 
+<h2 align="center">
+Self Assessment
+</h2>
+<p>
+ Demonstrating a robust mastery of various software engineering principles and practices, I exhibit commendable skills in designing, developing, and maintaining intricate software systems. My expertise encompasses a solid grasp of data structures, algorithms, and object-oriented programming, translating into the creation of clean and efficient code bases.
+Moreover, meticulous attention to detail characterizes my approach to code reviews, ensuring the enforcement of high-quality standards, best practices adherence, and adept problem-solving capabilities. Within team settings, my collaborative nature cultivates knowledge exchange and positively impacts project outcomes. A penchant for early issue identification and resolution streamlines development processes, elevating the overall quality of the product.
+
+By consistently updating my skill set and remaining informed about industry advancements, I embody a growth-oriented mindset that propels me towards tackling fresh challenges and embracing opportunities for ongoing learning and growth. Proficient communication skills further enhance my value, facilitating seamless engagement in technical conversations and collaborative team efforts.
+
+Reliable for delivering robust software solutions, adapting to evolving project demands, and making meaningful contributions to software engineering achievements, my commitment to continuous enhancement and strong foundational knowledge solidify me as a proficient and indispensable software engineer.
+ </p>
