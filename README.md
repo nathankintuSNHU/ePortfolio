@@ -7,7 +7,7 @@
 <style>
 body {
     font-family: Arial, sans-serif;
-    background-color: #8CA2B0;
+    background-color: #F2EDE9;
     color: #333444;
     margin: 0;
     padding: 20px;
@@ -19,7 +19,7 @@ body {
 }
 
 h1 {
-    color: #007bff;
+    color: ##7B1E19;
 }
 
 p {
