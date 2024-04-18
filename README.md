@@ -41,9 +41,9 @@ The fusion of sophisticated data structure principles with predictive modeling c
 <h2 align="center">
 Databases
 </h2>
-<div style="text-align: center">
-  <img src="login_page.JPG" alt="Application Page Description" />
-</div>
+<p align="center">
+  <img src="login_page.JPG">
+</p>
 <p>
  A database is an organized data collection for easy access, management, and updates, acting as a central store ensuring data integrity, security, and consistency through tables, rows, and columns. The users interact via DBMS to query, add, modify, or delete data. Through prior courses, I grasp database importance, creating, reading, editing, and deleting data. In this project, I emphasize user control with an authentication page, granting access if user info matches database records. Utilizing SQLite, Python is employed to manage user storage and develop queries effectively. 
 </p>
