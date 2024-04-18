@@ -23,7 +23,7 @@ Furthermore, the project delves deeply into crafting an attractive and user-cent
 <br><br>
 An integral part of the project involves implementing a secure database system to store user information. This database not only streamlines user management but also regulates access to the application, restricting usage to authorized individuals only.
 Throughout the development process, the project incorporates best practices, coding standards, and stringent testing strategies to ensure the software's functionality, performance, and security. These measures play a vital role in upholding the software's robustness and dependability over time, signifying a holistic approach to software design and engineering within the project's scope.
-
+<a href="https://github.com/nathankintuSNHU/Final-Project-Code-review/blob/main/Authenticator" target="_blank"> Link to code review video </a>
 </p>
 <h2 align="center">
 Algorithms and Data Structures
