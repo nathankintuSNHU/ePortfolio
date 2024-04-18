@@ -32,6 +32,7 @@ When a user enters a wall thickness value and activates the “Calculate” butt
 Progressing from this initial phase, the system generates a second set of 50 points stored in "model/modelData2.txt", strategically devised based on the correlations between the initial data collections. These correlations are pivotal inputs for a predictive model housed in "model/material-models/pulsewidth-model1.txt," enabling the system to determine the optimal pulse width for laser cutting operations effectively.
 <br><br>
 By employing various equations and models, the system computes the speed, frequency, and additional values in the output.
+<br><br>
 The fusion of sophisticated data structure principles with predictive modeling culminates in the construction of a resilient system that significantly heightens the precision and efficiency of metal-cutting processes.
 </p>
 <h2 align="center">
