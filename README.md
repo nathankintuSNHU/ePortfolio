@@ -91,6 +91,7 @@ The fusion of sophisticated data structure principles with predictive modeling c
 <a href="https://github.com/nathankintuSNHU/Final-Project-Code-review/blob/main/Data%20Structure%20and%20Algorithm" target="_blank"> Link to Algorithms and Data Structures code </a>
 <p align="center">
   <img src="datapoints.PNG">
+  <img src="results.PNG">
 </p>
 
 <h2 align="center">
