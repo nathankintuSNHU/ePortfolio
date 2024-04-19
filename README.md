@@ -89,7 +89,7 @@ By employing various equations and models, the system computes the speed, freque
 <br><br>
 The fusion of sophisticated data structure principles with predictive modeling culminates in the construction of a resilient system that significantly heightens the precision and efficiency of metal-cutting processes.</p>
 <a href="https://github.com/nathankintuSNHU/Final-Project-Code-review/blob/main/Data%20Structure%20and%20Algorithm" target="_blank"> Link to Algorithms and Data Structures code </a>
-<p align="left">
+<p align="center">
   <img src="datapoints.PNG">
   <img src="results.PNG">
 </p>
