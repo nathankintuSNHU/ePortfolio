@@ -46,7 +46,10 @@ By consistently updating my skill set and remaining informed about industry adva
 <br><br>
 Reliable for delivering robust software solutions, adapting to evolving project demands, and making meaningful contributions to software engineering achievements, my commitment to continuous enhancement and strong foundational knowledge solidify me as a proficient and indispensable software engineer.
  </p>
-
+ 
+<h2 align="center">
+Project: Laser Cutting Parameters Predictor
+</h2>
 <p align="center">
   <img src="explained app.PNG">
 </p>
