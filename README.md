@@ -48,7 +48,7 @@ Reliable for delivering robust software solutions, adapting to evolving project 
  </p>
  
 <h2 align="center">
-Project: Laser Cutting Parameters Predictor
+Project: Laser Cutting Parameters Predictor based on material thickness
 </h2>
 <p align="justify"> My project focuses on Laser cutting software that leverages a precise cutting method commonly applied in industries for cutting and engraving materials with exceptional accuracy and speed. Operating through a focused laser beam to melt or burn through materials, it offers versatility in processing various materials and crafting intricate designs. The software outlined uses user-provided information to anticipate crucial cutting parameters, employing customized prediction models for different wall thicknesses. This approach optimizes the cutting process, enhancing efficiency and precision.</p>
 <p align="center">
