@@ -47,9 +47,9 @@ By consistently updating my skill set and remaining informed about industry adva
 Reliable for delivering robust software solutions, adapting to evolving project demands, and making meaningful contributions to software engineering achievements, my commitment to continuous enhancement and strong foundational knowledge solidify me as a proficient and indispensable software engineer.
  </p>
 
-<div style="text-align: center">
-  <img src="main_detailed.JPG" alt="Application Page Description" />
-</div>
+<p align="center">
+  <img src="explained app.PNG">
+</p>
 <p align="justify"> My project focuses on Laser cutting software that leverages a precise cutting method commonly applied in industries for cutting and engraving materials with exceptional accuracy and speed. Operating through a focused laser beam to melt or burn through materials, it offers versatility in processing various materials and crafting intricate designs. The software outlined uses user-provided information to anticipate crucial cutting parameters, employing customized prediction models for different wall thicknesses. This approach optimizes the cutting process, enhancing efficiency and precision.</p>
 <h2 align="center">
 Code Review
