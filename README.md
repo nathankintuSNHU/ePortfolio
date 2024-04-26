@@ -80,6 +80,9 @@ Throughout the development process, the project incorporates best practices, cod
 <h2 align="center">
 Algorithms and Data Structures
 </h2>
+<p align="center">
+  <img src="laser.drawio.png">
+</p>
 <p align="justify">Having a deep understanding of data structures is essential for creating optimized algorithms and efficient code. In this project, my expertise in data structure management proves crucial for accurately foreseeing essential parameters in cutting metal sheets spanning from 0.006 to 0.06 inches in thickness.
 <br><br>
 When a user enters a wall thickness value and activates the “Calculate” button, the system springs into action. It creates a set of 50 random points stored in "model/modelData.txt", uniformly distributed within the designated thickness range. The meaning of these points is then calculated and juxtaposed with the input thickness to facilitate in-depth analysis.
